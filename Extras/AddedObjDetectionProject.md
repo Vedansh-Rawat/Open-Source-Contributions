@@ -1,6 +1,6 @@
 # Contribution: Object Detection System
 
-**Repository:** (https://github.com/milansinghal2004/Hacktoberfest-2025)  
+**Repository:** [Go To Repository](https://github.com/milansinghal2004/Hacktoberfest-2025)  
 **Language:** Python  
 **Contribution Type:** Added new project  
 
