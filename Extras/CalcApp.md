@@ -1,6 +1,6 @@
 # Contribution: Calculator App (CustomTkinter)
 
-**Repository:** [Beginner-Python-Projects](https://github.com/mrstrange2003/Hacktoberfest-2025-Beginner-Python-Projects)  
+**Repository:** [Go To Repository](https://github.com/mrstrange2003/Hacktoberfest-2025-Beginner-Python-Projects)  
 **Language:** Python  
 **Contribution Type:** Added new project  
 
