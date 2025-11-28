@@ -1,4 +1,4 @@
-# 🧩 Open Source Contributions - Vedansh Rawat
+# 🧩 Open Source Contributions
 
 Welcome! This repository showcases my open-source contributions!
 It serves as a portfolio of work demonstrating my skills in Python, C, JavaScript, HTML, CSS, and collaborative coding.
