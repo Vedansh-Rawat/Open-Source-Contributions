@@ -9,7 +9,6 @@ It serves as a portfolio of work demonstrating my skills in Python, C, JavaScrip
 
 - **Languages:** Python, C, JavaScript, HTML, CSS  
 - **Tools:** Git, GitHub, VSCode
-- **Open Source Practices:** Forking, Pull Requests, Issue fixing, Documentation, Feature addition  
 
 ---
 
